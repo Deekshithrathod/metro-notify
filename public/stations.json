@@ -1,0 +1,245 @@
+[
+  {
+    "name": "L B Nagar",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 0
+  },
+  {
+    "name": "Victoria Memorial",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 1
+  },
+  {
+    "name": "Chaitanyapuri",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 2
+  },
+  {
+    "name": "Dilshuknagar",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 3
+  },
+  {
+    "name": "Musarambagh",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 4
+  },
+  {
+    "name": "New Market",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 5
+  },
+  {
+    "name": "Malakpet",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 6
+  },
+  {
+    "name": "MG Bus Station",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 7
+  },
+  {
+    "name": "Osmania Medical College",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 8
+  },
+  {
+    "name": "Gandhi Bhavan",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 9
+  },
+  {
+    "name": "Nampally",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 10
+  },
+  {
+    "name": "Assembly",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 11
+  },
+  {
+    "name": "Lakdi-ka-pul",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 12
+  },
+  {
+    "name": "Khairatabad",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 13
+  },
+  {
+    "name": "Irrum Manzil",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 14
+  },
+  {
+    "name": "Panjagutta",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 15
+  },
+  {
+    "name": "Ameerpet",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 16
+  },
+  {
+    "name": "S.R. Nagar",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 17
+  },
+  {
+    "name": "ESI Hospital",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 18
+  },
+  {
+    "name": "Erragadda",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 19
+  },
+  {
+    "name": "Bharat Nagar",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 20
+  },
+  {
+    "name": "Moosapet",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 21
+  },
+  {
+    "name": "DR.B.R.Ambedkar Balanagar",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 22
+  },
+  {
+    "name": "Kukatpally",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 23
+  },
+  {
+    "name": "KPHB Colony",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 24
+  },
+  {
+    "name": "JNTU College",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 25
+  },
+  {
+    "name": "Miyapur",
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "trackColor": "RED",
+    "index": 26
+  }
+]
